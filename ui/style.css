@@ -1,6 +1,8 @@
 body {
     font-family: sans-serif;
     margin-top: 60px;
+    background-size: cover;
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAADCAYAAABfwxXFAAAAQUlEQVQYVyXLOQ6AMBAEwVojiyPhoRDxecSlRYZOJujpuDYZhRhR8eAkduJYZel/GRMZPsrdDousMzGQreya+fcFt4ANe51vnesAAAAASUVORK5CYII=");
 }
 
 .center {
