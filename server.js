@@ -24,12 +24,12 @@ var articleOne = {
 
 function creatTemplate(data){
     var title = data.title;
-    var heading =data.heading;
+    var heading = data.heading;
     var date = data.date;
-    var content =data.content;
+    var content = data.content;
     var htmlTemplate = `
         <html>
-                        <head>
+          <head>
                             <title>${title}i</title>
                              <link href="/ui/style.css" rel="stylesheet" />
                         </head>
