@@ -22,7 +22,7 @@ var articleOne = {
     
 };
 
-function creatTemplate(data){
+function createTemplate(data){
     var title = data.title;
     var heading = data.heading;
     var date = data.date;
