@@ -53,7 +53,8 @@ function creatTemplate(data){
                             </div>
                         </body>
                     </html>
-    '
+                    `;
+    
     
     return htmlTemplate;
 
