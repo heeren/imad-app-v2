@@ -35,7 +35,7 @@ article-two : {
                     
                     <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
                     
-                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`,},
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`},
 article-three : {
      title: 'Article Three | Heern Darji',
     heading: 'Article Three',
@@ -48,7 +48,7 @@ article-three : {
                     
                     <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
                     
-                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`,
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`
 },
 
 }
