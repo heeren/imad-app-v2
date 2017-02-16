@@ -8,7 +8,7 @@ app.use(morgan('combined'));
 
 var articles = { 
 
-article-one : {
+articleone : {
     title: 'Article One | Heern Darji',
     heading: 'Article One',
     date: 'Feb 16, 2017',
@@ -23,7 +23,7 @@ article-one : {
                     <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`
     
 },
-article-two : {
+articletwo : {
     title: 'Article Two | Heern Darji',
     heading: 'Article Two',
     date: 'Feb 16, 2017',
@@ -36,7 +36,7 @@ article-two : {
                     <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
                     
                     <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`},
-article-three : {
+articlethree : {
      title: 'Article Three | Heern Darji',
     heading: 'Article Three',
     date: 'Feb 16, 2017',
