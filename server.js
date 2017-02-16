@@ -6,7 +6,9 @@ var app = express();
 app.use(morgan('combined'));
 
 
-var articleOne = {
+var articles { 
+
+articleOne = {
     title: 'Article One | Heern Darji',
     heading: 'Article One',
     date: 'Feb 16, 2017',
@@ -20,7 +22,36 @@ var articleOne = {
                     
                     <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`,
     
-};
+},
+articleTwo = {
+    title: 'Article Two | Heern Darji',
+    heading: 'Article Two',
+    date: 'Feb 16, 2017',
+    content: `  <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`,},
+articleThree = {
+     title: 'Article Three | Heern Darji',
+    heading: 'Article Three',
+    date: 'Feb 16, 2017',
+    content: `  <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>
+                    
+                    <p>This is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.his is the fucking first line.</p>`,
+},
+
+}
 
 function createTemplate(data){
     var title = data.title;
